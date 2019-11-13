@@ -1,5 +1,5 @@
 # QtSpim_Assembly
-O programa consiste em um código em assembly no simulador QtSpim.
+O PROGRAMA CONSISTE EM UM CÓDIGO EM ASSEMBLY NO SIMULADOR QtSpim.
 
             .data
 
