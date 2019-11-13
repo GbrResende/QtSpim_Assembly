@@ -1,2 +1,2 @@
 # QtSpim_Assembly
-O PROGRAMA CONSISTE EM UM CÓDIGO EM ASSEMBLY NO SIMULADOR QtSpim.
+O programa consiste em um código em Assembly no simulador QtSpim.
